@@ -12,13 +12,6 @@ import pl.edu.ur.oopl5.zad2.Book;
 public class Main {
 
     public static void main(String[] args) {
-Book book1 = new Book ();
-book1.title("aerga");
-book1.author("atrh");
-book1.pages(123);
-book1.year(1998);
-book1.price(134);
-book1.showData();
     }
 
 }
